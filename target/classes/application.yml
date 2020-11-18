@@ -1,0 +1,11 @@
+#synchronizedLog:
+#  - user_info
+
+synchronizedReal:
+  user_info:
+    - name
+    - name_age
+
+date:
+  - 2020-11-17 00:00:00
+  - 2020-11-18 23:00:00

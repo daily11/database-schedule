@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.sunt.qpschedule.dao.src.SrcMapper">
+    <select id="listTables" resultType="map">
+        SELECT *
+        FROM ${tbName}
+        <where>
+            <if test="startTime !=null and endTime != null">
+                gmt_create > #{startTime} AND #{endTime} > gmt_create
+            </if>
+        </where>
+    </select>
+
+
+</mapper>
