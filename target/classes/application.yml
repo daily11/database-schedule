@@ -1,11 +1,15 @@
-#synchronizedLog:
-#  - user_info
+synchronizedLog:
+  - user_info
+  - layer_info
+  - person_info
+  - suntxc_inspect_outfall_report_info
+  - suntxc_inspect_report_info
 
-synchronizedReal:
-  user_info:
-    - name
-    - name_age
+#synchronizedReal:
+#  user_info:
+#    - name
+#    - name_age
 
 date:
-  - 2020-11-17 00:00:00
-  - 2020-11-18 23:00:00
+  - 1991-01-17 00:00:00
+  - 2020-12-18 23:00:00

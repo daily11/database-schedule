@@ -20,7 +20,7 @@ public class QpTimerTask extends TimerTask {
     // 用于校验当天是否已经执行过，默认没有
     private static volatile boolean QP_EXECUTED_FLAG = false;
     // 每月指定的执行日期
-    private static volatile int QP_DAY = 18;
+    private static volatile int QP_DAY = 19;
 
     private Config config;
     private IMapperService iUserInfoService;
@@ -144,11 +144,7 @@ public class QpTimerTask extends TimerTask {
 
         // 同步源数据到目标库中
         if (srcTbListCopy.size() > 0) {
-            try {
-                iUserInfoService.insertDestTables(tbName, srcTbListCopy);
-            } catch (Exception e) {
-//                e.printStackTrace();
-            }
+            iUserInfoService.insertDestTables(tbName, srcTbListCopy);
         }
     }
 
@@ -168,10 +164,8 @@ public class QpTimerTask extends TimerTask {
         logger.info("源数据---> " + srcTbList);
 
         // 同步源数据
-        try {
+        if (srcTbList != null && srcTbList.size() > 0) {
             iUserInfoService.insertDestTables(tbName, srcTbList);
-        } catch (Exception e) {
-//            e.printStackTrace();
         }
     }
 }

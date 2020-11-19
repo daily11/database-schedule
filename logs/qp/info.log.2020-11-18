@@ -1,0 +1,436 @@
+[INFO][2020-11-18 11:22:53] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 11:22:53 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 11:22:53] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 11:22:54] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 11:22:54] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 11:23:17] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 11:23:17 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 11:23:17] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 11:23:18] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 11:23:18] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 11:23:40] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 11:23:40 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 11:23:40] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 11:23:41] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 11:23:41] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 11:24:03] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 11:24:03 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 11:24:04] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 11:24:04] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 11:24:04] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 11:24:04] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 同步任务开始！ 
+[INFO][2020-11-18 11:27:06] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 11:27:06 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 11:27:06] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 11:27:07] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 11:27:07] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 11:27:07] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 同步任务开始！ 
+[INFO][2020-11-18 11:32:22] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 11:32:22 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 11:32:22] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 11:32:22] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 11:32:23] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 11:32:23] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:47) 同步任务开始！ 
+[INFO][2020-11-18 13:37:47] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 13:37:47 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 13:37:47] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 13:37:48] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 13:37:48] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 13:37:48] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 13:38:13] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 13:38:13 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 13:38:13] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 13:38:13] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 13:38:13] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 13:38:13] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 13:38:14] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml] 
+[INFO][2020-11-18 13:38:14] org.springframework.jdbc.support.SQLErrorCodesFactory.<init>(SQLErrorCodesFactory.java:127) SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana] 
+[INFO][2020-11-18 13:38:24] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 13:38:24 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 13:38:24] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 13:38:24] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 13:38:25] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 13:38:25] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 13:49:17] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 13:49:17 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 13:49:17] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 13:49:18] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 13:49:18] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 13:49:18] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 14:08:13] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 14:08:13 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 14:08:13] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 14:08:13] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 14:08:14] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 14:08:14] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 14:55:34] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 14:55:34 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 14:55:34] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 14:55:34] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 14:55:34] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 14:55:35] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 14:55:59] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 14:55:59 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 14:55:59] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 14:56:00] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 14:56:00] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 14:56:00] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 14:56:38] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 14:56:38 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 14:56:38] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 14:56:39] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 14:56:39] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 14:56:39] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 14:57:00] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 14:57:00 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 14:57:00] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 14:57:01] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 14:57:01] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 14:57:01] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:03:54] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:03:54 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:03:54] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:03:54] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:03:55] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:03:55] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:04:26] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:04:26 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:04:26] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:04:27] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:04:27] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:04:27] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:04:45] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:04:45 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:04:45] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:04:45] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:04:46] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:04:46] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:05:25] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:05:25 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:05:25] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:05:25] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:05:26] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:05:26] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:07:47] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:07:47 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:07:47] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:07:48] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:07:48] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:07:48] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:08:14] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:08:14 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:08:14] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:08:15] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:08:15] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:08:15] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:08:38] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:08:38 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:08:38] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:08:39] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:08:39] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:08:39] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:09:09] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:09:09 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:09:09] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:09:10] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:09:10] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:09:10] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:10:07] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:10:07 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:10:07] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:10:08] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:10:08] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:10:08] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:10:08] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml] 
+[INFO][2020-11-18 15:10:08] org.springframework.jdbc.support.SQLErrorCodesFactory.<init>(SQLErrorCodesFactory.java:127) SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana] 
+[INFO][2020-11-18 15:10:27] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:10:27 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:10:27] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:10:28] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:10:28] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:10:28] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:12:22] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:12:22 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:12:22] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:12:22] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:12:23] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:12:23] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:12:23] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml] 
+[INFO][2020-11-18 15:12:23] org.springframework.jdbc.support.SQLErrorCodesFactory.<init>(SQLErrorCodesFactory.java:127) SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana] 
+[INFO][2020-11-18 15:12:53] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:12:53 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:12:53] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:12:54] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:12:54] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:12:54] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:17:31] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:17:31 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:17:31] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:17:32] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:17:32] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:17:32] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:17:32] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml] 
+[INFO][2020-11-18 15:17:32] org.springframework.jdbc.support.SQLErrorCodesFactory.<init>(SQLErrorCodesFactory.java:127) SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana] 
+[INFO][2020-11-18 15:17:58] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:17:58 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:17:58] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:17:59] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:17:59] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:17:59] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:22:05] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:22:05 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:22:05] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:22:05] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:22:05] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:22:06] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:22:06] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml] 
+[INFO][2020-11-18 15:22:06] org.springframework.jdbc.support.SQLErrorCodesFactory.<init>(SQLErrorCodesFactory.java:127) SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana] 
+[INFO][2020-11-18 15:22:28] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:22:28 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:22:28] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:22:29] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:22:29] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:22:29] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:25:16] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:25:16 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:25:16] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:25:17] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:25:17] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:25:17] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:27:31] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:27:31 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:27:31] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:27:32] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:27:32] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:27:32] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:27:32] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:80) 拼接的单条sql语句---> insert into user_info (name_age,name,id,age) values ('chen_18','chen','1','18') 
+[INFO][2020-11-18 15:27:32] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:80) 拼接的单条sql语句---> insert into user_info (name_age,name,id,age) values ('zou_18','zou','2','18') 
+[INFO][2020-11-18 15:27:32] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:80) 拼接的单条sql语句---> insert into user_info (name_age,name,id,age) values ('0','yang','3','18') 
+[INFO][2020-11-18 15:29:30] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 15:29:30 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:29:30] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:29:30] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:29:31] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:29:31] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:45) 同步任务开始！ 
+[INFO][2020-11-18 15:29:31] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:50) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 15:29:31] com.sunt.qpschedule.thread.QpTimerTask.synchronizedLog(QpTimerTask.java:61) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=null, name=yang, id=3, age=18}] 
+[INFO][2020-11-18 15:29:31] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:80) 拼接的单条sql语句---> insert into user_info (name_age,name,id,age) values ('chen_18','chen','1','18') 
+[INFO][2020-11-18 15:29:31] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:80) 拼接的单条sql语句---> insert into user_info (name_age,name,id,age) values ('zou_18','zou','2','18') 
+[INFO][2020-11-18 15:29:31] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:80) 拼接的单条sql语句---> insert into user_info (name_age,name,id,age) values ('0','yang','3','18') 
+[INFO][2020-11-18 15:48:20] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 15:48:20 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:48:20] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:48:20] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:48:20] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:48:21] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 15:48:21] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 15:48:21] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:64) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 15:48:21] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:68) 目标数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=0, name=yang, id=3, age=18}] 
+[INFO][2020-11-18 15:50:26] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (name_age,name,id,age) values ('chen_18','chen','1','18') 
+[INFO][2020-11-18 15:50:26] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml] 
+[INFO][2020-11-18 15:50:28] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 15:50:28 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:50:28] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:50:29] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:50:29] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:50:29] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 15:50:29] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 15:50:29] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:64) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 15:50:29] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:68) 目标数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=0, name=yang, id=3, age=18}] 
+[INFO][2020-11-18 15:50:46] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (name_age,name,id,age) values ('chen_18','chen','1','18') 
+[INFO][2020-11-18 15:50:46] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml] 
+[INFO][2020-11-18 15:51:48] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 15:51:48 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:51:48] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:51:49] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:51:49] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:51:49] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 15:51:49] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 15:51:49] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:65) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 15:51:49] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:69) 目标数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}] 
+[INFO][2020-11-18 15:51:59] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (name_age,name,id,age) values ('chen_18','chen','1','18') 
+[INFO][2020-11-18 15:51:59] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml] 
+[INFO][2020-11-18 15:53:23] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 15:53:23 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 15:53:23] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 15:53:24] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 15:53:24] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 15:53:24] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 15:53:24] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 15:53:24] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:65) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 15:53:24] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:69) 目标数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}] 
+[INFO][2020-11-18 16:00:00] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (name_age,name,id,age) values ('chen_18','chen','1','18') 
+[INFO][2020-11-18 16:07:22] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 16:07:22 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 16:07:22] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 16:07:23] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 16:07:23] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 16:07:23] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 16:07:23] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 16:07:23] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:65) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 16:07:23] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:69) 目标数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}] 
+[INFO][2020-11-18 16:07:23] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (name_age,name,id,age) values ('chen_18','chen','1','18') 
+[INFO][2020-11-18 16:07:23] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml] 
+[INFO][2020-11-18 16:07:38] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 16:07:38 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 16:07:38] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 16:07:39] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 16:07:39] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 16:07:39] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 16:07:39] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 16:07:39] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:65) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 16:07:39] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:69) 目标数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}] 
+[INFO][2020-11-18 16:08:31] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 16:08:31 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 16:08:31] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 16:08:32] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 16:08:32] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 16:08:32] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 16:08:32] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 16:08:32] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:65) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 16:08:32] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:69) 目标数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}] 
+[INFO][2020-11-18 16:09:29] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 16:09:29 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 16:09:29] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 16:09:30] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 16:09:30] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 16:09:30] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 16:09:30] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 16:09:30] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:65) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 16:09:30] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:69) 目标数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}] 
+[INFO][2020-11-18 16:10:37] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 16:10:37 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 16:10:37] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 16:10:38] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 16:10:38] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 16:10:38] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 16:10:39] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 16:10:39] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:65) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 16:10:39] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:69) 目标数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}] 
+[INFO][2020-11-18 16:11:07] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 16:11:07 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 16:11:07] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 16:11:08] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 16:11:08] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 16:11:08] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 16:11:08] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 16:11:08] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:65) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 16:11:08] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:69) 目标数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}] 
+[INFO][2020-11-18 16:11:24] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 16:11:24 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 16:11:24] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 16:11:25] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 16:11:25] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 16:11:25] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 16:11:25] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 16:11:26] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:65) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 16:11:26] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:69) 目标数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}] 
+[INFO][2020-11-18 16:11:26] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (name_age,name,id,age) values ('liu_30','chen','4','30') 
+[INFO][2020-11-18 16:11:40] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 16:11:40 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 16:11:40] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 16:11:40] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 16:11:41] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 16:11:41] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 16:11:41] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> alsdkfa 
+[INFO][2020-11-18 16:11:41] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:65) 源数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 16:11:41] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:69) 目标数据---> [{name_age=chen_18, name=chen, id=1, age=18}, {name_age=zou_18, name=zou, id=2, age=18}, {name_age=yang_18, name=yang, id=3, age=18}, {name_age=liu_30, name=chen, id=4, age=30}] 
+[INFO][2020-11-18 16:36:35] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 16:36:35 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 16:36:35] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 16:36:36] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 16:36:36] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 16:36:36] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 16:36:36] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> [user_info] 
+[INFO][2020-11-18 16:36:54] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 16:36:54 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 16:36:54] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 16:36:54] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 16:36:54] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 16:36:55] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:41) 同步任务开始！ 
+[INFO][2020-11-18 16:36:55] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:46) 获取配置文件值案例---> {user_info=[name, name_age]} 
+[INFO][2020-11-18 16:59:35] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 16:59:35 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 16:59:35] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 16:59:36] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 16:59:36] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 16:59:36] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:42) 同步任务开始！ 
+[INFO][2020-11-18 16:59:51] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 16:59:51 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 16:59:51] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 16:59:52] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 16:59:52] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 16:59:52] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:42) 同步任务开始！ 
+[INFO][2020-11-18 17:00:00] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 17:00:00 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:00:00] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:00:01] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:00:01] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:00:01] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:42) 同步任务开始！ 
+[INFO][2020-11-18 17:00:47] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 17:00:47 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:00:47] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:00:47] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:00:48] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:00:48] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:42) 同步任务开始！ 
+[INFO][2020-11-18 17:00:48] com.sunt.qpschedule.thread.QpTimerTask.synchronizedLog(QpTimerTask.java:151) 源数据---> [{gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:06:51] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 17:06:51 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:06:51] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:06:51] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:06:52] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:06:52] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:07:09] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 17:07:09 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:07:09] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:07:10] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:07:10] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:07:10] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:07:33] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 17:07:33 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:07:33] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:07:34] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:07:34] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:07:34] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:07:49] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 17:07:49 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:07:49] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:07:49] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:07:50] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:07:50] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:08:41] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 17:08:41 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:08:41] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:08:42] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:08:42] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:08:42] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:09:26] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 17:09:26 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:09:26] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:09:27] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:09:27] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:09:27] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:10:04] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 17:10:04 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:10:04] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:10:05] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:10:05] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:10:05] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:10:32] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 17:10:32 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:10:32] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:10:32] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:10:33] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:10:33] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:11:11] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 17:11:11 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:11:11] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:11:12] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:11:12] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:11:12] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:11:12] com.sunt.qpschedule.thread.QpTimerTask.synchronizedLog(QpTimerTask.java:164) 源数据---> [{gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:11:12] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (gmt_create,name_age,name,id,gmt_modified,age) values ('2020-11-17 16:49:14.0','yang_18','yang','3','2020-11-17 16:49:18.0','18') 
+[INFO][2020-11-18 17:11:12] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (gmt_create,name_age,name,id,gmt_modified,age) values ('2020-11-18 16:49:22.0','liu_30','chen','4','2020-11-18 16:49:26.0','30') 
+[INFO][2020-11-18 17:11:28] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 17:11:28 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:11:28] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:11:29] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:11:29] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:11:29] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:11:29] com.sunt.qpschedule.thread.QpTimerTask.synchronizedLog(QpTimerTask.java:164) 源数据---> [{gmt_create=2020-11-16 16:48:47.0, name_age=chen_18, name=chen, id=1, gmt_modified=2020-11-16 16:48:57.0, age=18}, {gmt_create=2020-11-16 16:49:04.0, name_age=zou_18, name=zou, id=2, gmt_modified=2020-11-16 16:49:10.0, age=18}, {gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:11:29] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (gmt_create,name_age,name,id,gmt_modified,age) values ('2020-11-16 16:48:47.0','chen_18','chen','1','2020-11-16 16:48:57.0','18') 
+[INFO][2020-11-18 17:11:29] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (gmt_create,name_age,name,id,gmt_modified,age) values ('2020-11-16 16:49:04.0','zou_18','zou','2','2020-11-16 16:49:10.0','18') 
+[INFO][2020-11-18 17:11:29] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (gmt_create,name_age,name,id,gmt_modified,age) values ('2020-11-17 16:49:14.0','yang_18','yang','3','2020-11-17 16:49:18.0','18') 
+[INFO][2020-11-18 17:11:29] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml] 
+[INFO][2020-11-18 17:11:29] org.springframework.jdbc.support.SQLErrorCodesFactory.<init>(SQLErrorCodesFactory.java:127) SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana] 
+[INFO][2020-11-18 17:12:47] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 17:12:47 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:12:47] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:12:47] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:12:48] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:12:48] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:12:48] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:100) 源数据---> [{gmt_create=2020-11-16 16:48:47.0, name_age=chen_18, name=chen, id=1, gmt_modified=2020-11-16 16:48:57.0, age=18}, {gmt_create=2020-11-16 16:49:04.0, name_age=zou_18, name=zou, id=2, gmt_modified=2020-11-16 16:49:10.0, age=18}, {gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:12:48] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:104) 目标数据---> [{gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:12:48] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (gmt_create,name_age,name,id,gmt_modified,age) values ('2020-11-16 16:49:04.0','zou_18','zou','2','2020-11-16 16:49:10.0','18') 
+[INFO][2020-11-18 17:15:09] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 17:15:09 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:15:09] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:15:10] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:15:10] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:15:11] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:15:11] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:100) 源数据---> [{gmt_create=2020-11-16 16:48:47.0, name_age=chen_18, name=chen, id=1, gmt_modified=2020-11-16 16:48:57.0, age=18}, {gmt_create=2020-11-16 16:49:04.0, name_age=zou_18, name=zou, id=2, gmt_modified=2020-11-16 16:49:10.0, age=18}, {gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:15:11] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:104) 目标数据---> [{gmt_create=2020-11-16 16:49:04.0, name_age=zou_18, name=zou, id=2, gmt_modified=2020-11-16 16:49:10.0, age=18}, {gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:15:26] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 17:15:26 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:15:26] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:15:27] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:15:27] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:15:27] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:16:00] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:100) 源数据---> [{gmt_create=2020-11-16 16:48:47.0, name_age=chen_18, name=chen, id=1, gmt_modified=2020-11-16 16:48:57.0, age=18}, {gmt_create=2020-11-16 16:49:04.0, name_age=zou_18, name=zou, id=2, gmt_modified=2020-11-16 16:49:10.0, age=18}, {gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:16:00] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:104) 目标数据---> [{gmt_create=2020-11-16 16:49:04.0, name_age=zou_18, name=zou, id=2, gmt_modified=2020-11-16 16:49:10.0, age=18}, {gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:16:18] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 17:16:18 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:16:18] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:16:19] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:16:19] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:16:19] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:16:19] com.sunt.qpschedule.thread.QpTimerTask.synchronizedLog(QpTimerTask.java:164) 源数据---> [{gmt_create=2020-11-16 16:48:47.0, name_age=chen_18, name=chen, id=1, gmt_modified=2020-11-16 16:48:57.0, age=18}, {gmt_create=2020-11-16 16:49:04.0, name_age=zou_18, name=zou, id=2, gmt_modified=2020-11-16 16:49:10.0, age=18}, {gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:16:19] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (gmt_create,name_age,name,id,gmt_modified,age) values ('2020-11-16 16:48:47.0','chen_18','chen','1','2020-11-16 16:48:57.0','18') 
+[INFO][2020-11-18 17:16:19] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (gmt_create,name_age,name,id,gmt_modified,age) values ('2020-11-16 16:49:04.0','zou_18','zou','2','2020-11-16 16:49:10.0','18') 
+[INFO][2020-11-18 17:16:19] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml] 
+[INFO][2020-11-18 17:16:19] org.springframework.jdbc.support.SQLErrorCodesFactory.<init>(SQLErrorCodesFactory.java:127) SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana] 
+[INFO][2020-11-18 17:16:50] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cef309d: startup date [Wed Nov 18 17:16:50 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:16:50] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:16:51] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:16:51] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:16:51] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:16:55] com.sunt.qpschedule.thread.QpTimerTask.synchronizedLog(QpTimerTask.java:164) 源数据---> [{gmt_create=2020-11-16 16:48:47.0, name_age=chen_18, name=chen, id=1, gmt_modified=2020-11-16 16:48:57.0, age=18}, {gmt_create=2020-11-16 16:49:04.0, name_age=zou_18, name=zou, id=2, gmt_modified=2020-11-16 16:49:10.0, age=18}, {gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:18:20] com.sunt.qpschedule.service.impl.UserInfoServiceImpl.insertDestTables(UserInfoServiceImpl.java:85) 拼接的单条sql语句---> insert into user_info (gmt_create,name_age,name,id,gmt_modified,age) values ('2020-11-16 16:48:47.0','chen_18','chen','1','2020-11-16 16:48:57.0','18') 
+[INFO][2020-11-18 17:18:53] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 17:18:53 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:18:53] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:18:53] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:18:54] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:18:54] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:18:54] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:100) 源数据---> [{gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:18:54] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:104) 目标数据---> [{gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:21:21] org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:582) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@182decdb: startup date [Wed Nov 18 17:21:21 CST 2020]; root of context hierarchy 
+[INFO][2020-11-18 17:21:21] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317) Loading XML bean definitions from class path resource [spring-application.xml] 
+[INFO][2020-11-18 17:21:21] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-1} inited 
+[INFO][2020-11-18 17:21:22] com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:930) {dataSource-2} inited 
+[INFO][2020-11-18 17:21:22] com.sunt.qpschedule.thread.QpTimerTask.run(QpTimerTask.java:43) 同步任务开始！ 
+[INFO][2020-11-18 17:21:22] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:100) 源数据---> [{gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
+[INFO][2020-11-18 17:21:22] com.sunt.qpschedule.thread.QpTimerTask.synchronizedReal(QpTimerTask.java:104) 目标数据---> [{gmt_create=2020-11-17 16:49:14.0, name_age=yang_18, name=yang, id=3, gmt_modified=2020-11-17 16:49:18.0, age=18}, {gmt_create=2020-11-18 16:49:22.0, name_age=liu_30, name=chen, id=4, gmt_modified=2020-11-18 16:49:26.0, age=30}] 
