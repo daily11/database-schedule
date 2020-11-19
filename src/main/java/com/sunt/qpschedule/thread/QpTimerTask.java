@@ -49,25 +49,20 @@ public class QpTimerTask extends TimerTask {
 
             // 待同步的时间段
             List<String> date = config.getApplicationConfig().getDate();
-            if (date == null) {
-                // 默认同步前七天的数据
-                SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-                date = new ArrayList<>();
-                calendar.set(Calendar.DAY_OF_MONTH, day - 7);
-                calendar.set(Calendar.HOUR_OF_DAY, 0);
-                calendar.set(Calendar.MINUTE, 0);
-                calendar.set(Calendar.SECOND, 0);
-                Date startTime = calendar.getTime();
-                date.add(simpleDateFormat.format(startTime));
-                calendar.set(Calendar.DAY_OF_MONTH, day);
-                calendar.set(Calendar.HOUR_OF_DAY, 23);
-                calendar.set(Calendar.MINUTE, 59);
-                calendar.set(Calendar.SECOND, 59);
-                Date endTime = calendar.getTime();
-                date.add(simpleDateFormat.format(endTime));
+            if (date == null ) {
+                initDate(date, calendar, day);
             }
 
-            // 实时表同步
+            // 历史表同步[走配置文件路线，如果没有，那么默认七天前范围]
+            List<String> synchronizedLog = config.getApplicationConfig().getSynchronizedLog();
+            if (synchronizedLog != null) {
+                for (String tbName : synchronizedLog) {
+                    synchronizedLog(tbName, date);
+                }
+            }
+
+            // 实时表同步[时间范围就是七天前，不走配置文件路线]
+            initDate(date, calendar, day);
             Map<String, List<String>> synchronizedReal = config.getApplicationConfig().getSynchronizedReal();
             if (synchronizedReal != null) {
                 for (Map.Entry<String, List<String>> map : synchronizedReal.entrySet()) {
@@ -75,13 +70,7 @@ public class QpTimerTask extends TimerTask {
                 }
             }
 
-            // 历史表同步
-            List<String> synchronizedLog = config.getApplicationConfig().getSynchronizedLog();
-            if (synchronizedLog != null) {
-                for (String tbName : synchronizedLog) {
-                    synchronizedLog(tbName, date);
-                }
-            }
+            logger.info("同步任务结束！");
         }
     }
 
@@ -150,18 +139,45 @@ public class QpTimerTask extends TimerTask {
      * @author Chen Yixing
      * @date 2020-11-18 15:29:47
      **/
-    public void synchronizedLog(String tbName, List<String> date) {
+    private void synchronizedLog(String tbName, List<String> date) {
         if (StringUtils.isEmpty(tbName)) {
             return;
         }
 
         // 查询源数据
         List<Map<String, Object>> srcTbList = iUserInfoService.listSrcTables(tbName, date);
-        logger.info("源数据---> " + srcTbList);
+//        logger.info("源数据---> " + srcTbList);
 
         // 同步源数据
         if (srcTbList != null && srcTbList.size() > 0) {
             iUserInfoService.insertDestTables(tbName, srcTbList);
         }
+    }
+
+    /**
+     * 设置默认查询时间范围---七天前
+     *
+     * @author Chen Yixing
+     * @date 2020-11-19 10:16:20
+     * @param date      时间范围
+     * @param calendar  时间处理类
+     * @param day       指定执行的日期
+     **/
+    private void initDate(List<String> date, Calendar calendar, int day) {
+        // 默认同步前七天的数据
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        date = new ArrayList<>();
+        calendar.set(Calendar.DAY_OF_MONTH, day - 7);
+        calendar.set(Calendar.HOUR_OF_DAY, 0);
+        calendar.set(Calendar.MINUTE, 0);
+        calendar.set(Calendar.SECOND, 0);
+        Date startTime = calendar.getTime();
+        date.add(simpleDateFormat.format(startTime));
+        calendar.set(Calendar.DAY_OF_MONTH, day);
+        calendar.set(Calendar.HOUR_OF_DAY, 23);
+        calendar.set(Calendar.MINUTE, 59);
+        calendar.set(Calendar.SECOND, 59);
+        Date endTime = calendar.getTime();
+        date.add(simpleDateFormat.format(endTime));
     }
 }

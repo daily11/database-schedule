@@ -71,11 +71,12 @@ public class MapperServiceImpl implements IMapperService {
             sql.replace(sql.length() - 1, sql.length(), "");
             sql.append(")");
 
-            logger.info("拼接的单条sql语句---> " + sql);
+//            logger.info("拼接的单条sql语句---> " + sql);
             try {
                 destUserInfoMapper.insert(sql.toString());
             } catch (Exception e) {
                 e.printStackTrace();
+                logger.error(e.getMessage());
             }
         }
     }
