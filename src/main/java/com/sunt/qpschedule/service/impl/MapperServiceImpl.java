@@ -64,15 +64,10 @@ public class MapperServiceImpl implements IMapperService {
             sql.append("insert into ");
             sql.append(tbName);
             sql.append(" (");
-            paramKey.stream().forEach(arg -> {
-                sql.append(arg);
-                sql.append(",");
-            });
+            paramKey.forEach(arg -> sql.append(arg).append(","));
             sql.replace(sql.length() - 1, sql.length(), "");
             sql.append(") values (");
-            paramValue.stream().forEach(arg -> {
-                sql.append("\'" + (arg == null ? 0 : arg) + "\'" + ",");
-            });
+            paramValue.forEach(arg -> sql.append("'").append(arg == null ? 0 : arg).append("'").append(","));
             sql.replace(sql.length() - 1, sql.length(), "");
             sql.append(")");
 

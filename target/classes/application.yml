@@ -1,9 +1,5 @@
 synchronizedLog:
   - user_info
-  - layer_info
-  - person_info
-  - suntxc_inspect_outfall_report_info
-  - suntxc_inspect_report_info
 
 #synchronizedReal:
 #  user_info:

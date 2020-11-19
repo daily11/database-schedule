@@ -114,11 +114,7 @@ public class QpTimerTask extends TimerTask {
         Map<String, Set<Object>> destTbValidMap = new HashMap<>();
         for (Map<String, Object> map : destTbList) {
             for (String valid : tbValid) {
-                Set<Object> set = destTbValidMap.get(valid);
-                if (set == null) {
-                    set = new HashSet<>();
-                    destTbValidMap.put(valid, set);
-                }
+                Set<Object> set = destTbValidMap.computeIfAbsent(valid, k -> new HashSet<>());
                 set.add(map.get(valid));
             }
         }
