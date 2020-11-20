@@ -1,6 +1,5 @@
 package com.sunt.qpschedule;
 
-import com.sunt.qpschedule.config.SuntApplicationContext;
 import com.sunt.qpschedule.thread.QpTimerTask;
 
 import java.util.Timer;

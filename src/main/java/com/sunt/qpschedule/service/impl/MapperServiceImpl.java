@@ -36,12 +36,42 @@ public class MapperServiceImpl implements IMapperService {
 
     @Override
     public List<Map<String, Object>> listSrcTables(String tbName, List<String> date) {
-        return srcUserInfoMapper.listTables(tbName, date.get(0), date.get(1));
+        try {
+            if (date == null) {
+                return srcUserInfoMapper.listTables(tbName, null, null);
+            } else {
+                try {
+                    return srcUserInfoMapper.listTables(tbName, date.get(0), date.get(1));
+                } catch (Exception e) {
+                    // 有可能表是没有gmt_create字段的，因此会报错，报错的时候，我们制定这个字段起始/截止为null，重新查询！
+                    return srcUserInfoMapper.listTables(tbName, null, null);
+                }
+            }
+        } catch (Exception e) {
+            logger.error(tbName + " 不存在！");
+            e.printStackTrace();
+        }
+        return new ArrayList<>();
     }
 
     @Override
     public List<Map<String, Object>> listDestTables(String tbName, List<String> date) {
-        return destUserInfoMapper.listTables(tbName, date.get(0), date.get(1));
+        try {
+            if (date == null) {
+                return destUserInfoMapper.listTables(tbName, null, null);
+            } else {
+                try {
+                    return destUserInfoMapper.listTables(tbName, date.get(0), date.get(1));
+                } catch (Exception e) {
+                    // 有可能表是没有gmt_create字段的，因此会报错，报错的时候，我们制定这个字段起始/截止为null，重新查询！
+                    return destUserInfoMapper.listTables(tbName, null, null);
+                }
+            }
+        } catch (Exception e) {
+            logger.error(tbName + "不存在！");
+            e.printStackTrace();
+        }
+        return new ArrayList<>();
     }
 
     @Override
@@ -51,29 +81,33 @@ public class MapperServiceImpl implements IMapperService {
         }
 
         for (Map<String, Object> paramMap : srcTbList) {
-            List<String> paramKey = new ArrayList<>();
-            List<Object> paramValue = new ArrayList<>();
+            StringBuilder sql1 = new StringBuilder();
+            StringBuilder sql2 = new StringBuilder();
+
+            sql1.append("insert into ");
+            sql1.append(tbName);
+            sql1.append(" (");
 
             for (Map.Entry<String, Object> entry : paramMap.entrySet()) {
-                paramKey.add(entry.getKey());
-                paramValue.add(entry.getValue());
+                if (entry.getValue() != null) {
+                    sql1.append(entry.getKey()).append(",");
+                    if (entry.getValue() instanceof Boolean) {
+                        sql2.append("'").append(entry.getValue().equals(true) ? 1 : 0).append("'").append(",");
+                    } else {
+                        sql2.append("\"").append(entry.getValue()).append("\"").append(",");
+                    }
+                }
             }
+            sql1.replace(sql1.length() - 1, sql1.length(), "");
+            sql1.append(") values (");
 
-            // 组装动态SQL语句
-            StringBuilder sql = new StringBuilder();
-            sql.append("insert into ");
-            sql.append(tbName);
-            sql.append(" (");
-            paramKey.forEach(arg -> sql.append(arg).append(","));
-            sql.replace(sql.length() - 1, sql.length(), "");
-            sql.append(") values (");
-            paramValue.forEach(arg -> sql.append("'").append(arg == null ? 0 : arg).append("'").append(","));
-            sql.replace(sql.length() - 1, sql.length(), "");
-            sql.append(")");
+            sql2.replace(sql2.length() - 1, sql2.length(), "");
+            sql2.append(")");
 
+            String sql = sql1.append(sql2).toString();
 //            logger.info("拼接的单条sql语句---> " + sql);
             try {
-                destUserInfoMapper.insert(sql.toString());
+                destUserInfoMapper.insert(sql);
             } catch (Exception e) {
                 e.printStackTrace();
                 logger.error(e.getMessage());

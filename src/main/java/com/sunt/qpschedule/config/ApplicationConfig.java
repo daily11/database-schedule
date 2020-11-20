@@ -19,6 +19,28 @@ public class ApplicationConfig {
     // 查询日期范围
     private List<String> date;
 
+    // 当前天数往前datePre天开始查询
+    private Integer datePre;
+
+    // 每月开始执行的日期
+    private Integer dayOfMonth;
+
+    public Integer getDayOfMonth() {
+        return dayOfMonth;
+    }
+
+    public void setDayOfMonth(Integer dayOfMonth) {
+        this.dayOfMonth = dayOfMonth;
+    }
+
+    public Integer getDatePre() {
+        return datePre;
+    }
+
+    public void setDatePre(Integer datePre) {
+        this.datePre = datePre;
+    }
+
     public List<String> getDate() {
         return date;
     }

@@ -1,11 +1,158 @@
-synchronizedLog:
-  - user_info
-
+#synchronizedLog:
+#  - user_info
+#
 #synchronizedReal:
 #  user_info:
 #    - name
 #    - name_age
 
-date:
-  - 2020-11-12 00:00:00
-  - 2020-11-19 23:00:00
+#date:
+#  - 2020-11-18 00:00:00
+#  - 2020-11-19 23:00:00
+
+#需要同步的历史表
+synchronizedLog:
+  - device_alarm_processed_log
+  - dynamotorset_run_log
+  - electricity_install_log
+  - electricity_instrument_monitor_log
+  - facility_alarm_processed_log
+  - facility_handover_report_log
+  - gate_opening_install_log
+  - gate_opening_instrument_monitor_log
+  - gate_state_monitor_log
+  - goods_inspection_log
+  - inspection_coverage_day_log
+  - inspection_coverage_log
+  - network_state_monitor_log
+  - pump_gate_open_close_log
+  - pump_open_close_report_log
+  - rectification_report_log
+  - repair_report_log
+  - sso_login_log
+  - sys_log
+  - user_login_log
+  - user_position_log
+  - water_level_install_log
+  - web_camera_install_log
+  - web_camera_state_monitor_log
+
+#需要同步的实时表
+synchronizedReal:
+  alarm_rule_info:
+  alarm_rule_para_relation:
+  attendance_week_report_info:
+  building_intall:
+  cabine_control_install:
+  cabinet_switch_install:
+  cfg_grid_board:
+  cfg_grid_fields:
+  cfg_grid_fields_relation:
+  cfg_grid_tab_board:
+  cfg_grid_tab_relation:
+  cfg_map_layer_info:
+  cfg_news:
+  cfg_sub_system:
+  cfg_summary_board:
+  cleaner_grille_info:
+  cleaner_install:
+  cleaner_machine_info:
+  company_info_copy:
+  dam_domain_info:
+  dam_domain_river_relation:
+  electricity_install:
+  electricity_instrument_monitor_info:
+  facility_alarmrule_relation:
+  facility_basic:
+  facility_dam_domain_relation:
+  facility_inspection_target_info:
+  facility_inspector_relation:
+  facility_location_info:
+  facility_location_info0401:
+  facility_maintenance_entries:
+  facility_number_compare:
+  facility_number_compare_copy1:
+  facility_region_relation:
+  facility_river_relation:
+  facility_target_relation:
+  favorite_group_info:
+  favorite_info:
+  gate_close_standard_reference:
+  gate_info:
+  gate_install:
+  gate_opening_install:
+  gate_opening_instrument_info:
+  gate_opening_instrument_monitor_info:
+  gate_state_monitor_info:
+  goods_status_info:
+  group_info:
+  group_resources:
+  groupinfo_resources_relation:
+  handheld_device_info:
+  hoist_info:
+  image_group_info:
+  image_imagegroup_relation:
+  image_info:
+  inspection_problem_category_info:
+  inspection_problem_info:
+  inspection_region_completion:
+  inspection_target_details_relation:
+  maintenance_repair_flow_info:
+  map_metadata_info:
+  monitoring_point_info:
+  network_equipment_info:
+  network_equipment_install:
+  network_state_monitor_info:
+  plc_cabinet_info:
+  plc_cabinet_install:
+  position_log_filter:
+  pump_close_standard_reference:
+  pump_info:
+  pump_install:
+  pump_install_copy:
+  pump_state_monitor_info:
+  region_dam_domain_relation:
+  region_info:
+  region_river_relation:
+  river_camera_install:
+  river_info:
+  role_info:
+  role_resources:
+  roleinfo_resources_relation:
+  sewage_site:
+  sso_user_info:
+  sso_user_relation:
+  sys_acl:
+  sys_acl_module:
+  sys_cfg_info:
+  sys_para_info:
+  sys_role:
+  sys_role_acl:
+  sys_role_user:
+  type_dictionary_compare_info:
+  user_alarmrule_relation:
+  user_group_relation:
+  user_group_relation_copy:
+  user_handheld_device_relation:
+  user_info:
+  user_login_info:
+  user_personel_relation:
+  user_role_relation:
+  user_sms_cfg:
+  water_conservancy_facilities_info:
+  water_level_install:
+  water_level_install_copy:
+  water_level_instrument_info:
+  water_level_instrument_monitor_info:
+  waterlevel_ruler_info:
+  waterlevel_ruler_install:
+  web_camera_info:
+  web_camera_install:
+  web_camera_install_copy:
+  web_camera_state_monitor_info:
+
+#历史表同步时间范围【针对当前日期】
+datePre: 1
+
+#每月运行的日期
+dayOfMonth: 1
